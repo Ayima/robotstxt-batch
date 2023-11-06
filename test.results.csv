@@ -1,0 +1,6 @@
+User-Agent,page,robots_result
+GoogleBot,https://example.com/,ALLOWED
+GoogleBot,https://example.com/page,ALLOWED
+GoogleBot,https://example.com/page/1,DISALLOWED
+GoogleBot,https://example.com/page/2,ALLOWED
+GoogleBot,https://example.com/page/2?my_param=true,DISALLOWED

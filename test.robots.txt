@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /page/1
+Disallow: /page/*?my_param=true
