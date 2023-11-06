@@ -43,7 +43,7 @@ def _run_url_lookup(url, robots_file, user_agent):
 
 def _parse_lookup_result(lookup_terminal_output):
     """
-    Parse result ALLOWED or DISSALOWED from terminal output
+    Parse result ALLOWED or DISALOWED from terminal output
 
     e.g. user-agent 'GoogleBot' with URI 'https://example.com/page/1': DISALLOWED
     """
